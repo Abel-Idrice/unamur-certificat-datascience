@@ -4,3 +4,4 @@ pyproject.toml
 .python-version
 uv.lock
 environment.yml
+.venv/
